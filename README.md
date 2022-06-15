@@ -1,4 +1,4 @@
-Rock-Scissors-Paper is a simple two-player game where players make gestures with their hands, representing a rock, scissors or paper. This is a python implementation of game.
+Rock-Scissors-Paper is a simple two-player game where players make gestures with their hands, representing a rock, scissors or paper. This is a python implementation of the game.
 
 This implementation involves a user playing against a computer.
 
